@@ -3,6 +3,9 @@
 ## Lien pour installer corese :
 https://drive.google.com/file/d/1LQpw8Uer5LGr9lGvW964DSwBbKUk3fQw/view?usp=share_link
 
+## Lien du TP SPARQL
+http://www-sop.inria.fr/members/Philippe.Poulard/tp-sparql.html
+
 
 ## Etapes de lancement de corese :
 
