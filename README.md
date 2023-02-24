@@ -26,3 +26,8 @@ http://www-sop.inria.fr/members/Philippe.Poulard/tp-sparql.html
 ### Lien Quiz
 
 https://docs.google.com/forms/d/e/1FAIpQLSduVXi7IwHpL6zcghr4XFGtV9iHywggHAyttnGRfy243wiYfQ/viewform?usp=sf_link
+
+
+### Lien querry
+https://data.bnf.fr/sparql/
+
